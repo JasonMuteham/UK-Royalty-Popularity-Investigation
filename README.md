@@ -1,11 +1,11 @@
 # How popular is your name?
 
 
-Alter the code for the names to be ranked.
+To compare your name against the Office for National Statistics UK baby name dataset, alter the code in the cell.
 
->females = ["Sarah"]
+>females = ["girl name"]
 >
->males = ["Jason","Leon","Conrad"]
+>males = ["boy name","another boy name","another boy"]
 
 Charts will be plotted using Bokeh, Matplotlib, Seaborn & Plotly
 

@@ -1,7 +1,9 @@
-# How popular is your name?
+# Which member of the Royal family is the most popular?
+## UK ONS Live Birth Dataset 1996-2021
 
+Popularity is based on the number of babies named after royalty.
 
-To compare your name against the Office for National Statistics UK baby name dataset, alter the code in the cell.
+To compare your name against the Office for National Statistics UK baby name dataset, alter the code in the cell below.
 
 >females = ["girl name"]
 >

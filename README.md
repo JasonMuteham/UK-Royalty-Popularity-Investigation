@@ -1,4 +1,4 @@
-# Which member of the Royal family is the most popular?
+# Which members of the Royal family are popular?
 ## UK ONS Live Birth Dataset 1996-2021
 
 ![IMAGE][def2]
@@ -7,7 +7,7 @@ Popularity is based on the number of babies named after royalty.
 
 Jupyter notebook "UK Royalty Popularity Investigation.ipynb"
 
-To compare your name against the Office for National Statistics UK baby name dataset, alter the code in the cell below.
+To compare names against the Office for National Statistics UK baby name dataset, alter the code in the cell below.
 
 >females = ["girl name"]
 >

@@ -3,7 +3,7 @@
 
 ![IMAGE][def2]
 
-Popularity is based on the number of babies named after royalty.
+Popularity is based on the number of UK babies named after royalty.
 
 Jupyter notebook "UK Royalty Popularity Investigation.ipynb"
 
